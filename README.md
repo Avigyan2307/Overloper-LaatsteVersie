@@ -1,9 +1,10 @@
 # p5.js
+## Versie 3 ~ Overloper
+### Autheurs: Brent Droppert & Avigyan Mukherjee
 
-This is the Template Repl for p5.js.
+Dit is de laatste verise van overloper dat wij uploaden bij Github. Hierin zullen de laatste loodjes, naast een paar andere kenmerkende features als geluid, worden afgemaakt.
 
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
+## De reden waarom we meerdere repos gebruiken bij Github is omdat wij met een limit te maken hadden betreft repls. 
+### Daarom moesten we in totaal 3 repls aanmaken om verder te kunnen blijven coderen. Vandaar dat we 3 Repos hebben gemaakt voor 3 verschillende repls want het kan niet anders.
 
-[Check out the official docs here](https://p5js.org/reference/).
-
-
+# Succes en geniet van Overloper-V3 door Avigyan en Brent!
