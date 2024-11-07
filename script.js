@@ -316,7 +316,7 @@ function draw() {
   fill('snow');
   textSize(20);
   raster.teken();
-  text("Aantal Levens: " + levens, raster.celGrootte * 0.5, raster.celGrootte * 0.5);
+  text("Aantal Levens: " + levens + " ; Win door het rechterrand te passeren!", raster.celGrootte * 0.5, raster.celGrootte * 0.5);
   
 
   // Wisselt achtergrond bij muispositie
